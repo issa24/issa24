@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 **Projects**
+
 Predictive Analytics - https://github.com/issa24/Data-Science/blob/main/CovidAnalysis.ipynb
