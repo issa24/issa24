@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/issa24/Data-Science/blob/main/DW-Project.ipynb">Data Wrangling with MongoDB </a>
 
 <a href="https://github.com/issa24/abdin"> Leicester FC Data Analysis</a>
+
+ <a href="https://github.com/issa24/R-Projects/blob/main/ExpodatawithR.Rmd"> Exploratory Data Analysis with R</a>
