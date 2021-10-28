@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @issa24
+- 👋 Hi, I’m Issa
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Maths For Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
