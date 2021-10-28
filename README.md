@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
  <a href="https://github.com/issa24/R-Projects/blob/main/ExpodatawithR.Rmd"> Exploratory Data Analysis with R</a>
  
- <a href="https://public.tableau.com/views/ProsperVisualization/InvestorsinProsperLoans?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"> Visualizing with Tableau</a>
+ <a href="https://public.tableau.com/views/ProsperVisualization/InvestorsinProsperLoans?:language=en-US&:display_count=n&:origin=viz_share_link/" target="_blank"> Visualizing with Tableau</a>
