@@ -9,7 +9,7 @@ issa24/issa24 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-**Projects**
+# **Projects**
 
 <a href="https://github.com/issa24/Data-Science/blob/main/CovidAnalysis.ipynb"> Predictive Analytics </a>
 
