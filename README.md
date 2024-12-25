@@ -1,24 +1,48 @@
-- 👋 Hi, I’m Issa
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Maths For Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me issa.abdulkadir@yahoo.com
+## Hi, I’m Issa 👋
 
-<!---
-issa24/issa24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
 
-# **Projects**
+I’m a Business Intelligence Analyst passionate about Data Science 📊. With expertise in data analysis and visualization, I help organizations make data-driven decisions.
 
-Here is the site to learn more about me and explore my projects.
+### Interests
 
-<!-- <a href="https://github.com/issa24/Data-Science/blob/main/CovidAnalysis.ipynb"> Predictive Analytics </a> -->
+* Data Science 🤖
+* Business Intelligence 📈
+* Data Visualization 📊
+* Machine Learning 🤖
 
-<a href="https://issa24.github.io/Data-Science-Portfolio/#/">My Portfolio Site </a>
+### Currently Learning
 
-<!-- <a href="https://github.com/issa24/abdin"> Leicester FC Data Analysis</a> -->
+* Prompting Engineering 💻
+* Building AI Apps 🚀
+* Maths for Data Science 📚
 
-<!-- <a href="https://github.com/issa24/R-Projects/blob/main/ExpodatawithR.Rmd"> Exploratory Data Analysis with R</a>
- 
- <a href="https://public.tableau.com/views/ProsperVisualization/InvestorsinProsperLoans?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer"> Visualizing with Tableau</a> -->
+### Collaboration
+
+I’m eager to collaborate on Data Science projects, especially those involving:
+
+* Predictive Analytics 🔍
+* Data Visualization 📊
+* Business Intelligence 📈
+* AI Applications 🤖
+
+### Get in Touch
+
+* Email: (mailto:issa.abdulkadir@yahoo.com)
+* LinkedIn: 
+* Portfolio: (https://issa24.github.io/Data-Science-Portfolio/#/)
+
+## Projects
+
+### Featured Projects
+
+* (https://issa24.github.io/Data-Science-Portfolio/#/)
+* (https://github.com/issa24/Data-Science/blob/main/CovidAnalysis.ipynb)
+* (https://github.com/issa24/abdin)
+* (https://github.com/issa24/R-Projects/blob/main/ExpodatawithR.Rmd)
+* (https://public.tableau.com/views/ProsperVisualization/InvestorsinProsperLoans?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Other Projects
+
+* (https://github.com/issa24/Data-Science)
+* (https://github.com/issa24/R-Projects)
